@@ -6,6 +6,9 @@ Like I said, it also goes through your system files and essential files. Read th
 But anyway, to download it, disable Windows Defender. If you have Chrome and it says "virus detected," do Ctrl+J, then click the three dots, and then allow download.
 Then you have the files.
 
+join the discord: https://discord.gg/cMVngAnFjX
+
+if you like this please consider staring it.
 
 Enjoy this shit 
 
